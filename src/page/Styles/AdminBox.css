@@ -1,0 +1,88 @@
+/* box */
+.container {
+    background-color: gray;
+    border: 5px solid black;
+    margin: 2px;
+    padding: 2px;
+    width: 70%;
+    margin-left: 25vh;
+    /* display: flex; */
+}
+
+.Adminbox {
+    /* height: 200px;
+    width: 200px; */
+    border: 1px solid black;
+    padding: 2px;
+    align-items: center;
+}
+
+#Adminbox1 {
+    background-color: rgb(247, 188, 188);
+    height: 60px;
+    /* width: 50px; */
+}
+
+#Adminbox1 h4 {
+    color: #a00b0b;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#Adminbox1 h3 {
+    color: #a00b0b;
+    margin-left: 90%;
+    flex-direction: column;
+    margin-top: -4vh;
+}
+
+#Adminbox2 {
+    background-color: rgb(205, 205, 212);
+    height: 250%;
+    text-align: center;
+    display: flexbox;
+}
+
+#Adminbox2 h3 {
+    color: #be4343;
+    margin-top: 10px;
+    /* font-weight: 500; */
+}
+
+#Adminbox2 p {
+    color: black;
+    font-weight: 2000;
+    align-items: center;
+}
+
+#box3 {
+    background-color: rgb(247, 188, 188);
+    align-items: center;
+    height: 60px;
+}
+
+/* #box3 h2{
+    color: #a00b0b;
+    align-items: center;
+    margin-top: 10px;
+    
+} */
+.bt2 {
+    color: #a00b0b;
+    align-items: center;
+    margin-top: 15px;
+}
+
+#box3 h3 {
+    color: #a00b0b;
+    margin-left: 95%;
+    flex-direction: column;
+    margin-top: -3vh;
+}
+
+@media only screen and (max-width: 768px) {
+    #Adminbox1 h3 {
+        margin-left: 80%;
+    }
+
+}

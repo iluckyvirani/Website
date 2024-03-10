@@ -1,0 +1,14 @@
+.container {
+    background-color: rgb(12, 34, 226);
+    border: 3px solid black;
+    margin: 2px;
+    padding: 2px;
+    width: 99%;
+
+}
+
+
+#Boxs1 {
+    background-color: rgb(247, 247, 247);
+    height: 60%;
+}

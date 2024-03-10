@@ -1,0 +1,23 @@
+.mantableclass {
+    background-color: rgb(226, 223, 23);
+    border: 1px solid rgb(216, 213, 62);
+    margin: 2px;
+    padding: 8px;
+    width: 98%;
+
+}
+
+.manheading {
+    color: #000;
+    text-align: center;
+}
+
+.table1th {
+    background-color: #1c51ff;
+    text-align: center;
+}
+
+.trtd {
+    text-align: center;
+    background-color: #e9e8e8;
+}
